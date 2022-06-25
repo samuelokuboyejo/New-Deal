@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Roboto';
+    src: url('Roboto-ThinItalic-webfont.eot?#iefix') format('embedded-opentype'), url('Roboto-ThinItalic-webfont.woff') format('woff'), url('Roboto-ThinItalic-webfont.ttf') format('truetype'), url('Roboto-ThinItalic-webfont.svg#RobotoThinItalic') format('svg');
+    (under the Apache Software License). color: darkblue;
+}
+
+h2 {
+    font-family: 'Roboto';
+    color: purple;
+}
+
+head {
+    background-color: lightgoldenrodyellow;
+}
+
+body {
+    background-color: lightblue;
+}
+
+table {
+    background-color: pink;
+}
+
+div {
+    background-color: pink;
+}
+
+section {
+    color: #000;
+}
+
+footer {
+    background-color: lightgoldenrodyellow;
+}
